@@ -1,0 +1,147 @@
+*{margin: 0 ;
+    padding: 0;
+box-sizing: border-box;
+}
+main{width: 1170px;
+    margin: auto;
+    display: flex;
+    flex-flow: row wrap;
+ }
+
+ #container1{width: 1170px;
+height: 320px;
+margin: 6px;
+display: flex;
+background-color: rgb(190, 89, 240);}
+
+#cx1{width:300px;
+height: 300px;
+margin: 10px;
+background-color:rgb(245, 153, 202);}
+
+#cx2{width: 800px;
+height: 90px;
+margin: 10px ;
+background-color:violet;}
+
+#itens{width: 210px;
+    margin: 5px;
+display: flex;
+align-self: flex-end;}
+
+#cx3{width: 70px;
+    height: 100px;
+    margin: 5px ;
+    background-color:rgb(148, 67, 130);
+}
+
+
+
+#cx4{width: 70px;
+height: 100px;
+margin: 5px;
+background-color:rgb(255, 47, 220);
+}
+
+#cx5{ width: 70px;
+height: 100px;
+margin: 5px;
+background-color:lightpink;
+}
+#art1{
+    width: 370px;
+    height: 720px;
+    margin: 5px;
+    background-color: rgb(213, 135, 250) ;
+}
+#art2{
+    width: 370px;
+    height: 720px;
+    margin: 5px;
+    background-color: rgb(249, 224, 255);
+}
+#art3{
+    width: 370px;
+    height: 720px;
+    margin: 5px;
+    background-color: rgb(238, 144, 218);
+}
+#sec1{
+    width: 575px;
+    height: 490px;
+    margin: 5px;
+    background-color: rgb(243, 182, 255);
+}
+#sec2{
+    width: 575px;
+    height: 490px;
+    margin: 5px;
+    background-color: rgb(233, 157, 214);
+}
+#container2 {
+    width: 1170px;
+    height: 720px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    background-color: rgb(218, 83, 173);}
+#cx6{
+    width: 365px;
+    height: 545px;
+   margin: 45px;
+    background-color: rgb(240, 137, 206);
+   
+    
+}
+#cx7{
+    width: 365px;
+    height: 545px;
+    margin: 45px;
+    background-color: rgb(243, 114, 193);
+ 
+}
+
+#container3{width:10800px;
+    margin: 10px;
+    display: flex;
+    flex-flow: row wrap;
+}
+    #cx8{
+    width: 270px;
+    height: 330px;
+    margin: 5px;
+    background-color: rgb(188, 143, 178);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;    
+}
+#cx9{
+    width: 270px;
+    height: 330px;
+    margin: 5px;
+    background-color: rgb(216, 90, 149);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;    
+}
+#cx10{
+    width: 270px;
+    height: 330px;
+    margin: 5px;
+    background-color: rgb(211, 67, 115);
+  
+}
+#cx11{
+    width: 270px;
+    height: 330px;
+    margin: 5px;
+    background-color: rgb(231, 127, 188);}
+   
+footer{
+    width: 1170px;
+    height: 200px;
+    margin: 5px;
+    background-color: rgb(225, 100, 237);
+}
+
